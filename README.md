@@ -112,7 +112,7 @@ Purpose: Manage quiz questions.
     },
   ]
   ```
-<img width="611" height="403" alt="Screen Shot 2025-08-12 at 5 43 23 PM" src="https://github.com/user-attachments/assets/34817deb-96c7-4da0-9be8-6b775500987d" />
+   <img width="611" height="403" alt="Screen Shot 2025-08-12 at 5 43 23 PM" src="https://github.com/user-attachments/assets/34817deb-96c7-4da0-9be8-6b775500987d" />
 
 
 #### 4. Service Discovery (Eureka Server)
